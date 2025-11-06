@@ -33,10 +33,6 @@ Each phase represents a major milestone in the project.
 
 ---
 
-### 📊 Progress Bar
-
----
-
 ## 🧠 Tech Stack
 
 ### **AI & Quantum**
